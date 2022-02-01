@@ -19,10 +19,9 @@
 - [9. Интерфейсы](/09_type_interface)
 - [10. Общие типы (Generic)](/10_generic)
 - [11. Декораторы](/11_decorators)
-- [12.Утилиты ](/12_utility_types)
+- [12. Утилиты ](/12_utility_types)
 
 ---
 ### Полезные ссылки:
 - [TypeScript (документация)](https://www.typescriptlang.org)
 - [Sandbox (песочница)](https://www.typescriptlang.org/play/index.html)
-- [Typescript Utils (утилиты)](https://www.typescriptlang.org/docs/handbook/utility-types.html)
